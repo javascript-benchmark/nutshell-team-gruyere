@@ -1,0 +1,146 @@
+{
+  "users": [
+    {
+      "username": "nutshellman",
+      "email": "nutshellman@nutshell.com",
+      "password": "supersecret",
+      "id": 1
+    },
+    {
+      "username": "nutshellwoman",
+      "email": "nutshellwoman@nutshell.com",
+      "password": "topsecret",
+      "id": 2
+    },
+    {
+      "username": "nicole",
+      "password": "evans",
+      "email": "kelli",
+      "id": 3
+    },
+    {
+      "username": "123",
+      "password": "123",
+      "email": "123",
+      "id": 4
+    },
+    {
+      "username": "bob",
+      "password": "bob",
+      "email": "bob",
+      "id": 5
+    },
+    {
+      "username": "pooper",
+      "password": "1234",
+      "email": "poop@poop.com",
+      "id": 6
+    }
+  ],
+  "tasks": [
+    {
+      "date": "2019-09-27",
+      "name": "apples\n",
+      "id": 1
+    },
+    {
+      "name": "nope",
+      "date": "2019-09-16",
+      "id": 2
+    },
+    {
+      "date": "2019-09-18",
+      "name": "I be poopin. ",
+      "id": 5
+    },
+    {
+      "date": "2019-09-19",
+      "name": "nutshell",
+      "id": 6
+    }
+  ],
+  "events": [
+    {
+      "name": "shop",
+      "location": "graveyardsmash",
+      "date": "7/7/99",
+      "id": 1
+    },
+    {
+      "name": "mickeymousefuntime!!",
+      "location": "party",
+      "date": "9/15/19",
+      "id": 2
+    },
+    {
+      "name": " piglypartyhour",
+      "location": " right here",
+      "date": "9/9/99",
+      "id": 4
+    },
+    {
+      "name": " LETS PARTY DUDE",
+      "location": " WILDMAN PARTY CENTRAL",
+      "date": " 9/20/19",
+      "id": 5
+    },
+    {
+      "name": "lkjhlkjhlkjhlkhlkjhlkj",
+      "location": "  final test!!!",
+      "date": "  final test!!!",
+      "id": 6
+    },
+    {
+      "name": " uoiuuouo",
+      "location": "stpo",
+      "date": "spoi",
+      "id": 7
+    },
+    {
+      "name": " Time to Poop",
+      "location": "toilet",
+      "date": " today",
+      "id": 8
+    }
+  ],
+  "news": [
+    {
+      "title": "TestTime",
+      "synopsis": "TestTimeSyn",
+      "url": "TestURLTime",
+      "userId": 1,
+      "date": "2019-09-18T15:31:24.012Z",
+      "id": 4
+    },
+    {
+      "title": "News",
+      "synopsis": "News",
+      "url": "News",
+      "userId": "1",
+      "id": 5
+    },
+    {
+      "title": "test2",
+      "synopsis": "test2",
+      "url": "test2",
+      "userId": "1",
+      "id": 6
+    },
+    {
+      "title": " final test",
+      "synopsis": " final test",
+      "url": " final test",
+      "userId": 1,
+      "date": "2019-09-18T19:25:37.491Z",
+      "id": 8
+    },
+    {
+      "title": "nutshell",
+      "synopsis": "nutshell",
+      "url": "nutshell",
+      "userId": 1,
+      "date": "2019-09-19T14:19:55.810Z",
+      "id": 10
+    }
+  ]
+}

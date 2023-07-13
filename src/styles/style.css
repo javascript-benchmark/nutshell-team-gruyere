@@ -1,0 +1,26 @@
+body {
+    background-image: url("https://i.scdn.co/image/0446c339525bf8f702f56c51e19e6a68dc9d630c");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: scroll;
+    background-color: maroon;
+    color: white;
+}
+
+.welcome-header {
+text-align: center;
+font-size: 15vh;
+}
+
+#article-section {
+    border: 2px solid white;
+}
+
+#task-section {
+    border: 2px solid white;
+}
+
+#task-output-container {
+    border: 2px solid white;
+}
